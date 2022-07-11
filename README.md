@@ -12,7 +12,7 @@ I'm a passionate Software Developer from Brasil
 
 - ❤️ I love programming, and keeping up with everything about new technologies
 
-<div align="center">
+<div align="center" style="display: flex">
   <img alt="MatheusZed" src="https://github-readme-streak-stats.herokuapp.com?user=MatheusZed&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 
   <img alt=MatheusZed src="https://github-readme-stats.vercel.app/api?username=MatheusZed&theme=dark&show_icons=true&title_color=d1830f&border_radius=3" />
