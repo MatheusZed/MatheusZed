@@ -4,7 +4,7 @@
 
 <br />
 
-I'm a passionate Software Developer from Brasil
+I'm a passionate Software Developer from Brazil
 
 **About me**
 
